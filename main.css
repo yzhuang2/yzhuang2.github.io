@@ -1,0 +1,287 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+
+body{
+	background:white;
+	align-content:center;
+	margin-top:0px;
+}
+
+
+
+p{
+	font-family: Helvetica;
+	font-size: 14px;
+}
+
+img{
+	height: 200px;
+	width: 200px;
+	margin-top:10px;
+	border:50px; 
+}
+
+.scrolls {
+    overflow-x: scroll;
+    overflow-y: scroll
+    height: 1500px;
+    white-space:nowrap
+}
+.one{
+	
+	transform: scale(1.5, 1.5);
+	padding:60px;
+}
+
+.one:hover{
+	
+	transform:scale(2.5,2.5);
+	z-index:30;
+	padding:120px;
+}
+.two{
+	
+	transform:scale(0.5,0.5);
+}
+
+
+.two:hover{
+	
+	transform:scale(4,4);
+	z-index:30;
+}
+
+.three{
+	position: absolute;
+	margin-top:1000px;
+	margin-left:600px;
+	transform: scale(2, 2);
+}
+
+.four{
+	position: absolute;
+	top:330px;
+	left:-470px;
+	transform:scale(0.05,0.05);
+}
+
+
+.four:hover{
+	position: absolute;
+	top:370px;
+	left:-70px;
+	transform:scale(1,1);
+}
+
+.five{
+	position: absolute;
+	margin-top:1800px;
+	margin-left:600px;
+	transform: scale(2, 2);
+}
+
+.six{
+	position: absolute;
+	top:1130px;
+	left:-470px;
+	transform:scale(0.05,0.05);
+}
+
+
+.six:hover{
+	position: absolute;
+	top:1250px;
+	left:-70px;
+	transform:scale(1,1);
+}
+
+.seven{
+	position: absolute;
+	margin-top:2500px;
+	margin-left:600px;
+	transform: scale(2, 2);
+}
+
+.eight{
+	position: absolute;
+	top:1830px;
+	left:-470px;
+	transform:scale(0.05,0.05);
+}
+
+
+.eight:hover{
+	position: absolute;
+	top:1950px;
+	left:-70px;
+	transform:scale(1,1);
+}
+
+.nine{
+	position: absolute;
+	margin-top:3300px;
+	margin-left:600px;
+	transform: scale(2, 2);
+}
+
+.ten{
+	position: absolute;
+	top:2730px;
+	left:-470px;
+	transform:scale(0.05,0.05);
+}
+
+
+.ten:hover{
+	position: absolute;
+	top:2750px;
+	left:-70px;
+	transform:scale(1,1);
+}
+
+.eleven{
+	position: absolute;
+	margin-top:4000px;
+	margin-left:600px;
+	transform: scale(2, 2);
+}
+
+.twelve{
+	position: absolute;
+	top:3430px;
+	left:-470px;
+	transform:scale(0.05,0.05);
+}
+
+
+.twelve:hover{
+	position: absolute;
+	top:3450px;
+	left:-70px;
+	transform:scale(1,1);
+}
+
+.thirteen{
+	position: absolute;
+	margin-top:4700px;
+	margin-left:600px;
+	transform: scale(2, 2);
+}
+
+.fourteen{
+	position: absolute;
+	top:4030px;
+	left:-470px;
+	transform:scale(0.05,0.05);
+}
+
+
+.fourteen:hover{
+	position: absolute;
+	top:4150px;
+	left:-70px;
+	transform:scale(1,1);
+}
+
+
+.fifteen{
+	position: absolute;
+	margin-top:5400px;
+	margin-left:600px;
+	transform: scale(2, 2);
+}
+
+.sixteen{
+	position: absolute;
+	top:4790px;
+	left:-470px;
+	transform:scale(0.05,0.05);
+}
+
+
+.sixteen:hover{
+	position: absolute;
+	top:4350px;
+	left:-70px;
+	transform:scale(1,1);
+}
+
+.seventeen{
+	position: absolute;
+	margin-top:6300px;
+	margin-left:600px;
+	transform: scale(2, 2);
+}
+
+.eightteen{
+	position: absolute;
+	top:5430px;
+	left:-470px;
+	transform:scale(0.05,0.05);
+}
+
+
+.eighteen:hover{
+	position: absolute;
+	top:5450px;
+	left:-470px;
+	transform:scale(1,1);
+}
+
+.nineteen{
+	position: absolute;
+	margin-top:6000px;
+	margin-left:600px;
+	transform: scale(2, 2);
+}
+
+.twenty{
+	position: absolute;
+	top:6530px;
+	left:-470px;
+	transform:scale(0.05,0.05);
+}
+
+
+.twenty:hover{
+	position: absolute;
+	top:6550px;
+	left:-70px;
+	transform:scale(1,1);
+}
+
+.twenty1{
+	position: absolute;
+	margin-top:6800px;
+	margin-left:600px;
+	transform: scale(2, 2);
+}
+
+.twenty2{
+	position: absolute;
+	top:7330px;
+	left:-470px;
+	transform:scale(0.05,0.05);
+}
+
+
+.twenty2:hover{
+	position: absolute;
+	top:7350px;
+	left:-70px;
+	transform:scale(1,1);
+}
+
+/*
+$('.two').hover (function(){
+	this.src='gifs/b.gif';
+},function(){
+	this.src='still/B.png';
+});
+*/
+
+
+
+
